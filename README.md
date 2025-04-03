@@ -27,11 +27,10 @@ Before running the tests, ensure you have the following installed:
 
 2. Install the project dependencies:
 
-   ```npm install```
+    ``npm install``
    
 ## Running the Tests
 
 To run the tests, execute the following command:
 
-    ```npx mocha```
-
+``npx mocha``
