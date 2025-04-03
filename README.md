@@ -21,8 +21,8 @@ Before running the tests, ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/mostro-test.git
-   cd mostro-test
+   git clone https://github.com/fabohax/mostro-tester.git
+   cd mostro-tester
    ```
 
 2. Install the project dependencies:
