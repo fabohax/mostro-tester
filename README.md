@@ -27,7 +27,7 @@ Before running the tests, ensure you have the following installed:
 
 2. Install the project dependencies:
 
-    ``npm install``
+    ``npm i``
    
 ## Running the Tests
 
